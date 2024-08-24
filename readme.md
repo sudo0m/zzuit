@@ -1,5 +1,17 @@
 ## 郑州工业应用技术学院迎新系统抢床位脚本
 
+下载main.py
+安装python 和 requests 模块
+
+```bash
+pip install requests
+```
+
+运行
+```bash
+python main.py
+```
+
 这几个必须填写
 
 ![image](https://github.com/sudo0m/picx-images-hosting/raw/master/20240824/image.45hljpora0.webp)
